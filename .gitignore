@@ -1,0 +1,5 @@
+*~
+*.db
+temp/
+bower_components
+
